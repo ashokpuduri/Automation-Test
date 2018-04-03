@@ -1,4 +1,3 @@
-package Instabug.InstabugAutomation;
 
 import com.jayway.jsonpath.JsonPath;
 
